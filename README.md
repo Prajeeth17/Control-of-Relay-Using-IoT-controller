@@ -1,4 +1,7 @@
-# Control-of-Relay-Using-IoT-controller
+# Control of Relay Using IoT controller
+
+## Name: Prajeeth K T
+## Reg.No: 212222110034
 
 ##  AIM:
 To control the Relay using Arduino controller
