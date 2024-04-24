@@ -1,7 +1,7 @@
-# Exp No:2 Control of Relay Using IoT controller
-
 ## Name: Prajeeth K T
 ## Reg.No: 212222110034
+
+# Exp No:2 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
